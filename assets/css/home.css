@@ -43,6 +43,7 @@ main{
     display: inline-block;
     margin-top: 150px;
     color: black;
+    height: 100vh;
     
 }
 
@@ -53,8 +54,7 @@ aside{
     width: 20%;
     padding: 10px;
     border: 5px solid black;
-    height: 300px;
-    display: block;
+    height: 100vh;
 }
 
 ul{
