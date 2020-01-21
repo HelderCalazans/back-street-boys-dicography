@@ -57,6 +57,10 @@ aside{
     height: 100vh;
 }
 
+nav{
+    margin-top: 50px;
+}
+
 ul{
     list-style-type: none;
     font-size: 20px;
@@ -72,6 +76,41 @@ footer{
     width: 100%;
 }
 
+.facebook{
+    background-image: url("../img/facebook.png");
+}
+
+.instagram{
+    background-image: url("../img/instagram.png");
+}
+
+.youtube{
+    background-image: url("../img/youtube.png");
+}
+
 .clear{
     clear: right;
+}
+
+.navegacao{
+    text-align: center;
+    padding: 10px;
+}
+
+.navegacao ul, .navegacao li{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.social li{
+    display: inline-block;
+}
+
+.social a{
+    width: 64px;
+    height: 64px;
+    display: inline-block;
+    text-indent: -99999999px;
+    float: left;
 }
