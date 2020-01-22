@@ -54,6 +54,9 @@ aside{
     padding: 10px;
     border: 5px solid black;
     height: 100vh;
+    position: fixed;
+    right: 0;
+    top: 0;
 }
 
 nav{
