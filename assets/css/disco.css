@@ -7,8 +7,24 @@
     margin-bottom: 10px;
 }
 
+.area-publicacao h1{
+    font-size: 25px;
+    text-shadow: 1px 2px gray;
+}
+
 .area-publicacao img{
     width: 100px;
     height: 100px;
     float: left;
+    box-sizing: border-box;
+    border-left: 5px solid black;
+}
+
+.area-publicacao a{
+    color: black;
+    text-decoration: none;
+}
+
+.area-publicacao a:hover{
+    font-size: 30px;
 }
