@@ -78,6 +78,19 @@ footer{
     width: 100%;
 }
 
+.menu li{
+    background-color: #5352ed;
+    padding: 10px;
+    border-radius: 6px;
+    width: 200px;
+    margin: auto;
+}
+
+.menu li:hover{
+    font-size: 120%;
+    font-weight: bolder;
+}
+
 .main-content{
     max-width: 500px;
     margin: auto;
@@ -131,7 +144,6 @@ footer{
     font-weight: 600;
     text-decoration: none;
     color: white;
-    opacity: 0.8;
 }
 
 .menu a:hover{
