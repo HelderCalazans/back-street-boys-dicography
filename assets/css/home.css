@@ -105,6 +105,11 @@ footer{
 
 .social li{
     display: inline-block;
+    opacity: 0.5;
+}
+
+.social li:hover{
+    opacity: 1;
 }
 
 .social a{
@@ -113,4 +118,16 @@ footer{
     display: inline-block;
     text-indent: -99999999px;
     float: left;
+}
+
+.menu a{
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+    opacity: 0.8;
+}
+
+.menu a:hover{
+    font-weight: bolder;
+    opacity: 1;
 }
