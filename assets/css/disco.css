@@ -1,15 +1,17 @@
 .area-publicacao{
-    border: 1px solid darkgrey;
+    border: 5px solid #3C1D3D;
     width: 600px;
     height: 100px;
     margin: auto;
     line-height: 100px;
     margin-bottom: 10px;
+    border-radius: 10px;
 }
 
 .area-publicacao h1{
     font-size: 25px;
     text-shadow: 1px 2px gray;
+    text-align: center;
 }
 
 .area-publicacao img{
@@ -17,11 +19,13 @@
     height: 100px;
     float: left;
     box-sizing: border-box;
-    border-left: 5px solid black;
+    /* border-left: 5px solid black; */
+    border-right: 5px solid #3C1D3D;
+    border-radius: 2px;
 }
 
 .area-publicacao a{
-    color: black;
+    color: #851944;
     text-decoration: none;
 }
 
