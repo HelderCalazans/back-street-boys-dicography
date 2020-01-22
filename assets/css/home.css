@@ -37,14 +37,13 @@ main{
     /* background-color: #0984e3; */
     padding: 40px;
     box-sizing: border-box;
-    border-bottom: 5px solid black;
+    /* border-bottom: 5px solid black;
     border-right: 5px solid black;
-    border-left: 5px solid black;
+    border-left: 5px solid black; */
     display: inline-block;
     margin-top: 150px;
     color: black;
     height: 100vh;
-    
 }
 
 aside{

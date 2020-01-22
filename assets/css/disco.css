@@ -1,0 +1,14 @@
+.area-publicacao{
+    border: 1px solid darkgrey;
+    width: 600px;
+    height: 100px;
+    margin: auto;
+    line-height: 100px;
+    margin-bottom: 10px;
+}
+
+.area-publicacao img{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
